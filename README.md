@@ -1,4 +1,3 @@
-# File: README.md
 # Advanced LZ Compression Algorithms
 
 A high-performance implementation of LZ77, LZSS, and LZ78 compression algorithms in C++17.
