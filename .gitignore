@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+
+# Build output
+dist/
+build/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+*.code-workspace
+.vs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Misc
+*.bak
+*.tmp

@@ -13,7 +13,6 @@ class BitWriter {
     uint8_t buffer;
     int bitCount;
 
-
     public:
     BitWriter(vector<uint8_t>& out);
     void writeBits(uint32_t value, int bits);
